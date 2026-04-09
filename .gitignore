@@ -1,0 +1,33 @@
+## Visual Studio / .NET
+bin/
+obj/
+.vs/
+.vscode/
+
+## User secrets
+secrets.json
+
+## Logs
+*.log
+
+## Runtime
+*.dll
+*.exe
+*.pdb
+
+## EF Core
+Migrations/*Designer.cs
+
+## OS
+.DS_Store
+Thumbs.db
+
+## NuGet
+*.nupkg
+packages/
+
+## Publish
+publish/
+
+## Local settings
+appsettings.Development.json
